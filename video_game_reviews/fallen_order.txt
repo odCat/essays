@@ -5,6 +5,6 @@ Attention to details
 Graphics and engine
 Story
 Combat system
-Exploration
-Upgrades
+Exploration (gives XP) && Upgrades
 RPG elements and Skill tree
+Glitches
