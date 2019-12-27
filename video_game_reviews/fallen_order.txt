@@ -12,3 +12,4 @@ Combat system
 Exploration (gives XP) && Upgrades
 RPG elements and Skill tree
 Glitches
+Acting (voice)
