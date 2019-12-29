@@ -6,7 +6,7 @@ on an original story, an challenging combat system and level exploration
 to create an immersive experience.
 
 Attention to details
-Graphics and engine
+Visuals, Graphics and engine
 Story
 Combat system
 Exploration (gives XP) && Upgrades
