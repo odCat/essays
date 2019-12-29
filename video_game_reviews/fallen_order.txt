@@ -5,6 +5,15 @@ Developed by Respawn Entertainment and published by EA, the game relies
 on an original story, an challenging combat system and level exploration
 to create an immersive experience.
 
+Especially the beginning of the game delivers through great visuals and
+attention to details. Fallen Order relies on the Unreal engine to produce
+the expected stunning imagery without sacrificing in the performance
+department; the game run without any issues on my PC. However console
+players complained because of frame issues, I think because the games
+start with max graphical settings by default, so make sure you customize
+the settings according to your machine. The game does not suffer much
+from lowering the visuals.
+
 Attention to details
 Visuals, Graphics and engine
 Story
