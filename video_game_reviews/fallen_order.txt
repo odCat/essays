@@ -21,4 +21,6 @@ Combat system
 Exploration (gives XP) && Upgrades
 RPG elements and Skill tree
 Glitches
+    enemies in the air
+    water box opening animation
 Acting (voice)
