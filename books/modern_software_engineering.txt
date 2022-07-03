@@ -1,0 +1,64 @@
+# Modern Software Engineering
+
+Începe cu definiția ingineriei - aplicarea în practică a metodei științifice.
+
+Observă → Crează o ipoteză → Fă o predicție → Experimentează
+
+El zice că ingineria este înțelesă greșit, este crearea de sisteme fizice sau
+virtuale care funcționează, în anumite limite de toleranță. Deci nu este doar 
+matematică sau știință, este o disciplină mai pragmatică.
+
+O să fac o paranteză aici, în legătură cu ce ai zis, politehnica pregătește
+ingineri, care o să construiască lucruri în lumea reală, iar Universitatea
+pregătește informaticieni, pentru studiu matematic/academic.
+Este aceeași diferența ca dintre *software engineer* și *computer scientist*.
+Acum, ambele o să vrea ca studenții lor să se poată angaja…
+
+Reveneind, în domeniul nostru trebuie să ne adaptăm rapid, el zice să învățăm,
+și să putem confrunta complexitatea sistemelor la care lucrăm.
+
+Ceea ce vrea să comunice este că nu este suficient să programăm, oricine poate
+să scrie cod, trebuie să urmăm anumite discipline, ca celelalte ramuri ale
+ingineriei. Discipline care ne ajută să ne adaptăm rapid și să creăm sisteme
+complexe.
+
+Adaptabilitate/învățare:
+
+- progres iterativ/incremental
+- feedback
+- experimentalism
+- empiricism
+
+Management-ul complexității:
+
+- modularitate
+- coeziune
+- separation of concerns
+- abstractizare
+- cuplare redusă
+
+Alte metode descrise:
+
+- testare, TDD în particular
+- deployability
+- controlul variabilelor (într-un expreriment)
+- continuous delivery
+
+Un lucru interesant, menționează un mod de măsurare a eficienței unei
+echipe care apare într-o altă carte *Accelerate: The Science of Lean Software* 
+*& DevOps.*
+
+Se folosesc două atribute:
+
+1. Stabilitate
+    - rata cu care defecte sunt introduse
+    - cât de repede se repară un defect
+2. Debit
+    - cât timp ia pentru o idee să devină cod
+    - cât de des apar schimbări în producție
+
+În rest cartea se cam repetă, pentru că metodele descrise se suprapun parțial,
+dar o recomand.
+
+Autorul are și un canal de YouTube:
+[https://www.youtube.com/c/ContinuousDelivery](https://www.youtube.com/c/ContinuousDelivery)
