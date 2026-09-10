@@ -1,0 +1,5 @@
+I picked up for the first time The Pragmatic Programmer years ago, while I was still a tester at Electronic Arts.  I don't remember how I heard about the book.
+
+Recently I gave it another go, since I had the time and I wasn't pleased with the first pass.  Hoping the intervening experiences would shed some light on what I missed the first time.
+
+If there is a book I would recommend to a young, aspiring programmer, this is it; I would place it above most other general programming books for it's accessibility and directness.
