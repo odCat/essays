@@ -1,5 +1,33 @@
-I picked up for the first time The Pragmatic Programmer years ago, while I was still a tester at Electronic Arts.  I don't remember how I heard about the book.
+I picked up for the first time The Pragmatic Programmer years ago,
+while I was still a tester at Electronic Arts.  I don't remember
+how I heard about the book.
 
-Recently I gave it another go, since I had the time and I wasn't pleased with the first pass.  Hoping the intervening experiences would shed some light on what I missed the first time.
+Recently I gave it another go and picked up the 20th Anniversary
+Edition, since I had the time and I wasn't pleased with the first
+pass,  Hoping the intervening experiences would shed some light on
+what I missed the first time.
 
-If there is a book I would recommend to a young, aspiring programmer, this is it; I would place it above most other general programming books for it's accessibility and directness.
+Suffice to say, this book changed me and the way I am as a professional.
+It was surprising to see parts of the book have marked me so deeply
+after the first reading.  I am mainly talking about the first three
+chapters.
+
+First, the authors lay out the pragmatic philosophy.  How can I
+summaries it?  The developer has to take responsibility for the code
+he writes, he has to affect positive change on the projects he works
+on.  A pragmatic programmer is solely responsible for his education
+("knowledge portfolio").  He must be able to clearly communicate his
+ideas base on the context.
+
+The section about entropy explain it does not affect only physical
+systems, but it is a reality in software projects.  Here, the concept
+of broken windows spoke to me on a personal level and it stuck with
+me, so much, I though the idea was de-emphasized in later editions.
+The advice here is: "Don't Live with Broken Windows".
+
+Another rule this chapter remind me of is "The Boy Scout rule" from
+"Clean Code".  The two books having some overlay.
+
+If there is a book I would recommend to a young, aspiring programmer,
+this is it; I would place it above most other general programming
+books for it's accessibility and conciseness.
